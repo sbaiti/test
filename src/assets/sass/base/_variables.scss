@@ -1,0 +1,64 @@
+// variables
+$white: #fff !default;
+$gray-100: #ededed !default;
+$gray-200: #e6e7e8 !default;
+$gray-300: #dee2e6 !default;
+$gray-400: #ced4da !default;
+$gray-500: #adb5bd !default;
+$gray-600: #6c757d !default;
+$gray-700: #495057 !default;
+$gray-800: #4f4f4f !default;
+$gray-900: #212529 !default;
+
+$red-100: #ab4e64;
+$red-200: #d52f58;
+$red-300: #612634;
+$red-400: #622635;
+$red-500: #860021;
+$red-600: #5c0017;
+
+$blue-shades-1300: #010205;
+$blue-shades-1200: #030a17;
+$blue-shades-1100: #061128;
+$blue-shades-1000: #081939;
+$blue-shades-900: #0a214a;
+$blue-shades-800: #0d285b;
+$blue-shades-700: #0f306d;
+$blue-shades-600: #12377e;
+$blue-shades-500: #143f8f;
+$blue-shades-400: #1646a0;
+$blue-shades-300: #194eb1;
+$blue-shades-200: #1b769e;
+$blue-shades-100: #1e5dd4;
+
+$blue-tint-1300: #2566e0;
+$blue-tint-1200: #3672e3;
+$blue-tint-1100: #477ee5;
+$blue-tint-1000: #61c5e5;
+$blue-tint-900: #00838f;
+$blue-tint-800: #7ba2ec;
+$blue-tint-700: #8caeef;
+$blue-tint-600: #9dbaf1;
+$blue-tint-500: rgb(174, 198, 244);
+$blue-tint-400: rgb(192, 211, 246);
+$blue-tint-300: rgb(209, 223, 249);
+$blue-tint-200: rgb(226, 235, 251);
+$blue-tint-100: rgb(243, 247, 253);
+
+$yellow-shades-500: #b37d00;
+$yellow-tint-500: #ffb300;
+
+$green-shades-500: #648e2a;
+$green-tint-500: #8dc63f;
+
+$pink-shades-500: #a0005f;
+$pink-tint-500: #ec008c;
+
+$mauve-shades-500: #43184e;
+$mauve-tint-500: #762a88;
+
+$black: #000 !default; 
+
+:export{
+    blue-tint:$blue-shades-1300
+}
